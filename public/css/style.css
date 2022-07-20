@@ -1,0 +1,14 @@
+.active {
+	background-color: yellow !important;
+	color: red !important;
+}
+
+label {
+	font-weight: normal;
+}
+.input_search {
+	margin-left: 10px;
+	margin-right: 5px;
+	
+}
+
